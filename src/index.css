@@ -9,13 +9,6 @@ body {
   background: linear-gradient(to left, rgb(82, 108, 182)0%, rgba(0,128,128,1)100%)
 }
 
-h1{
-  font-family: 'SEGA LOGO FONT';
-  font-style: normal;
-  font-weight: normal;
-  src: local('SEGA LOGO FONT'), url('SEGA.woff') format('woff');
-}
-
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
